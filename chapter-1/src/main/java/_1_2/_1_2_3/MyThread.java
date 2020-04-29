@@ -1,7 +1,7 @@
 package _1_2._1_2_3;
 
 /**
- * Ïß³Ìµ÷ÓÃµÄËæ»úĞÔ
+ * çº¿ç¨‹è°ƒç”¨çš„éšæœºæ€§
  * @author duyanhan
  *
  */
@@ -17,12 +17,12 @@ public class MyThread extends Thread {
 	}
 
 	public static void main(String[] args) {
-		// Æô¶¯×ÓÏß³Ì£¬ÈÃ×ÓÏß³ÌÖ´ĞĞÑ­»·²Ù×÷
+		// å¯åŠ¨å­çº¿ç¨‹ï¼Œè®©å­çº¿ç¨‹æ‰§è¡Œå¾ªç¯æ“ä½œ
 		MyThread myThread = new MyThread();
 		myThread.setName("myThread");
 		myThread.start();
 		
-		// Í¬Ê±£¬Ò²Ö´ĞĞÖ÷Ïß³ÌÖĞµÄÑ­»·
+		// åŒæ—¶ï¼Œä¹Ÿæ‰§è¡Œä¸»çº¿ç¨‹ä¸­çš„å¾ªç¯
 		for (int i = 0; i < 10000; i++) {
 			System.out.println("main=" + Thread.currentThread().getName());
 		}
