@@ -1,6 +1,6 @@
 package _1_2._1_2_1;
 /**
- * ¼Ì³ĞThreadÀà
+ * ç»§æ‰¿Threadç±»
  * @author duyanhan
  *
  */
@@ -14,11 +14,11 @@ public class MyThread extends Thread {
 
 	public static void main(String[] args) {
 		MyThread myThread = new MyThread();
-		myThread.start();// Õâ¸öºÄÊ±´ó
-		System.out.println("ÔËĞĞ½áÊø£¡");// ºÄÊ±Ğ¡
+		myThread.start();// è¿™ä¸ªè€—æ—¶å¤§
+		System.out.println("è¿è¡Œç»“æŸï¼");// è€—æ—¶å°
 		
-//		ÔËĞĞ½á¹û£º
-//		ÔËĞĞ½áÊø£¡
+//		è¿è¡Œç»“æœï¼š
+//		è¿è¡Œç»“æŸï¼
 //		MyThread
 
 	}
