@@ -1,4 +1,5 @@
-# µÚÒ»ÕÂ
-1.2.1 [¼Ì³ĞThreadÀà](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_1/MyThread.java)  
-1.2.3 [Ïß³Ìµ÷ÓÃµÄËæ»úĞÔ](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_3/MyThread.java)  
-1.2.4 [start()·½·¨µÄÊéĞ´Ë³ĞòÄÜ´ú±íÏß³ÌÆô¶¯£¨run()·½·¨Ö´ĞĞ£©µÄË³ĞòÂğ£¿²»ÄÜ£¡£¡£¡](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_4/MyThread.java)  
+# ç¬¬ä¸€ç« 
+1.2.1 [ç»§æ‰¿Threadç±»](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_1/MyThread.java)  
+1.2.3 [çº¿ç¨‹è°ƒç”¨çš„éšæœºæ€§](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_3/MyThread.java)  
+1.2.4 [start()æ–¹æ³•çš„ä¹¦å†™é¡ºåºèƒ½ä»£è¡¨çº¿ç¨‹å¯åŠ¨ï¼ˆrun()æ–¹æ³•æ‰§è¡Œï¼‰çš„é¡ºåºå—ï¼Ÿä¸èƒ½ï¼ï¼ï¼](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_4/MyThread.java)  
+1.2.5 [å®ç°Runnableæ¥å£](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_5/MyRunnable.java)  
