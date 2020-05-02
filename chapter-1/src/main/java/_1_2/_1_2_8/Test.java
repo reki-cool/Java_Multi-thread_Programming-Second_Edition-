@@ -24,7 +24,6 @@ class MyThread3 extends Thread {
     @Override
     synchronized public void run() {
         super.run();
-        // 相比示例_1_2._1_2_8.MyThread，这里不使用while语句，否则会造成其他线程得不到运行机会的情况
         count--;
         System.out.println("由 " + this.currentThread().getName() + " 计算，count= " + count);
     }
