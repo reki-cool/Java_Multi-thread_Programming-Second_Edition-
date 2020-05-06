@@ -9,3 +9,10 @@ out
 gen
 target
 *.class
+
+# eclipse
+.settings
+target
+.classpath
+.project
+*.class
