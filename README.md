@@ -7,3 +7,4 @@
 1.2.6 [将一个Thread对象中的run()方法交由其他线程进行调用：因为Thread本身也实现了Runnable接口](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_6/Test2.java)  
 1.2.8 [让多个线程之间的实例变量不共享：以线程中的count实例变量为例](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_8/MyThread.java)    
 1.2.8 [让多个线程之间的实例变量共享：以线程中的count实例变量为例【两种情况，一种是线程安全的，一种是线程不安全的】](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_8/Test.java)    
+1.2.9 [1、方法的参数值是绑定到当前执行的线程上的 2、多个线程访问单例中的成员变量存在“非线程安全问题”](https://github.com/reki-cool/Java_Multi-thread_Programming_Second_Edition/blob/master/chapter-1/src/main/java/_1_2/_1_2_9/LoginServlet.java.java)    
